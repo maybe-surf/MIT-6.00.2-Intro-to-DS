@@ -16,7 +16,7 @@ Tries to find the most efficient (fastest) way to do it.
 
 **ps1_partition** contains a generator helper function that generates all possible partitions of a set
 
-**ps1 contains** the greedy approach, and the brute force algorithm
+**ps1** contains the greedy approach, and the brute force algorithm
 
 **ps1_cow_data** contains some basic data about the objects in a set
 
