@@ -3,7 +3,7 @@
 
 *Contains mostly the problem sets solutions.*
 
-## Problem Set 1 (ps1)
+## Problem Set 1 (PS1)
 
 *Optimization, knapsack problem, decision trees and dynamic programming.* 
 
