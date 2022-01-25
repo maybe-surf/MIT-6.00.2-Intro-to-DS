@@ -14,11 +14,11 @@
 Basically this means how would you empty the set of objects of different weight if you can only take a limited weight at at time. 
 Tries to find the most efficient (fastest) way to do it.
 
-**ps1_partition** contains a generator helper function that generates all possible partitions of a set
+**ps1_partition.py** contains a generator helper function that generates all possible partitions of a set
 
-**ps1** contains the greedy approach, and the brute force algorithm
+**ps1.py** contains the greedy approach, and the brute force algorithm
 
-**ps1_cow_data** contains some basic data about the objects in a set
+**ps1_cow_data.txt** contains some basic data about the objects in a set
 
 ## Problem Set 2 (PS2)
 
@@ -36,3 +36,4 @@ Tries to find the most efficient (fastest) way to do it.
 
 >![2022-01-25](https://user-images.githubusercontent.com/97697560/151075747-2e01d3e3-2235-4c9a-aee7-be9e02d00b60.png)
 
+**ps2.py** contains the solution
