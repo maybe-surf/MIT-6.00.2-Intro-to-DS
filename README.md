@@ -37,3 +37,5 @@ Tries to find the most efficient (fastest) way to do it.
 >![2022-01-25](https://user-images.githubusercontent.com/97697560/151075747-2e01d3e3-2235-4c9a-aee7-be9e02d00b60.png)
 
 **ps2.py** contains the solution
+
+## PS3 *(to be posted)*
