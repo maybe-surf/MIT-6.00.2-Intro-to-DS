@@ -38,8 +38,10 @@ Tries to find the most efficient (fastest) way to do it.
 
 **ps2.py** contains the solution
 
-## PS3 *(to be posted)*
+## PS3 *(PS3B)*
 *Inferential statistics and Monte Carlo simulations*
 >In this problem set, using Python and Pylab, you will design and implement a stochastic simulation of patient and virus population dynamics, and reach conclusions about treatment regimens based on the simulation results.
 
-The simulations explore how virus' resistance to drugs affects treatment and how the virus population evolves in an organism that is undergoing treatment
+The simulations explore how virus' resistance to drugs affects treatment and how the virus population evolves in an organism that is undergoing treatment. More detailed explanation is in the code comments.
+
+## PS4 *(to be posted)
