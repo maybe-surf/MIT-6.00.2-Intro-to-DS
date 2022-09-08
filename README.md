@@ -44,4 +44,6 @@ Tries to find the most efficient (fastest) way to do it.
 
 The simulations explore how virus' resistance to drugs affects treatment and how the virus population evolves in an organism that is undergoing treatment. More detailed explanation is in the code comments.
 
-## PS4 *(to be posted)*
+## PS4 *(PS4)*
+*Working with experimental data*
+>In this problem set, you will use regression analysis to model the climate of different areas and try to find evidence of global warming. You will create models to analyze and visualize climate change in terms of temperature.
