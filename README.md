@@ -1,7 +1,7 @@
 # MIT-6.00.2-Intro-to-DS
-*Some code from MIT 6.00.2 [Intro to Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4) that I took on [edX](https://www.edx.org/) in spring 2021.* 
+*Coding problems from MIT 6.00.2 [Intro to Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4) that I took on [edX](https://www.edx.org/) in spring 2021.* 
 
-*Contains mostly the problem sets solutions.*
+*Contains mostly the problem sets solutions and explanations.*
 
 ## Problem Set 1 (PS1)
 
